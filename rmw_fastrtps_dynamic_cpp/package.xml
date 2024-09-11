@@ -10,6 +10,8 @@
   <author>Ricardo González</author>
   <author email="dthomas@osrfoundation.org">Dirk Thomas</author>
 
+  <!-- FIX USE VERSION v2.6.6 fstdds -->
+  
   <buildtool_depend>ament_cmake_ros</buildtool_depend>
   <buildtool_depend>fastrtps_cmake_module</buildtool_depend>
 
